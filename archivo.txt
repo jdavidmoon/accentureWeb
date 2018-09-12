@@ -1,2 +1,2 @@
-archivo Linea  
+archivo Linea  Se modifica para confictos
 linea 2 
